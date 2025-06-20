@@ -1,7 +1,5 @@
 # Olá! Eu sou Mariana Guarino
->Desenvolvedora front-end
-
->18 anos vivenciando o que a vida tem de melhor
+> Ciência da computação
 <div> 
   <a href="https://github.com/marianaguarino">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=marianaguarino&show_icons=falso&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -20,6 +18,5 @@
     <a href="https://www.linkedin.com/in/mariana-guarino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:msousaguarino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-![Snake animation](https://github.com/MarianaGuarino/MarianaGuarino/blob/output/github-contribution-grid-snake.svg)
     
   </div>
